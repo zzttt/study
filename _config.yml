@@ -5,24 +5,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zzttt.github.io/study_log/" # the base hostname & protocol for your site, e.g. http://example.com
 
 author_logo: profile.png
 disqus_shortname: sujay-kundu  #for comments using disqus
 author: devlopr
 author_bio: Hello, my name is John Doe.I am an award winning Full Stack Web Developer and UI/UX Javascript specialist.Check out my blog articles, React.JS and Vue.JS UI components at the code laboratory.Feel free to take a look at my latest projects below.Based in London, UK. 
-author_email: "john@devlopr.com"
+author_email: "hihijo07@gmail.com"
 author_location: India
 author_website_url: "https://yourwebsite.com"
 
 # social links
-twitter_username: yourusername
-github_username:  yourusername
-facebook_username: yourusername
-linkedin_username: yourusername
-behance_username: yourusername
-instagram_username: yourusername
-medium_username: yourusername 
-telegram_username: yourusername
-dribbble_username: yourusername 
-flickr_username: yourusername
+twitter_username: Armin
+github_username:  Armin
+facebook_username: Armin
+linkedin_username: Armin
+behance_username: Armin
+instagram_username: Armin
+medium_username: Armin 
+telegram_username: Armin
+dribbble_username: Armin 
+flickr_username: Armin
