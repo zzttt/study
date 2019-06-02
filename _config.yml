@@ -1,5 +1,5 @@
-title: devlopr jekyll
-subtitle: A Jekyll Theme built for Developers
+title: A blog for studing
+subtitle: The blog with logs for studing.
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,16 +9,16 @@ url: "https://zzttt.github.io/study_log" # the base hostname & protocol for your
 
 author_logo: profile.png
 disqus_shortname: sujay-kundu  #for comments using disqus
-author: devlopr
-author_bio: Hello, my name is John Doe.I am an award winning Full Stack Web Developer and UI/UX Javascript specialist.Check out my blog articles, React.JS and Vue.JS UI components at the code laboratory.Feel free to take a look at my latest projects below.Based in London, UK. 
+author: Armin
+author_bio: Hello, This is Armin living in South Korea, working as a software engineer.
 author_email: "hihijo07@gmail.com"
-author_location: India
+author_location: South Korea
 author_website_url: "https://yourwebsite.com"
 
 # social links
-twitter_username: Armin
-github_username:  Armin
-facebook_username: Armin
+twitter_username: None
+github_username:  arminic
+facebook_username: None
 linkedin_username: Armin
 behance_username: Armin
 instagram_username: Armin
